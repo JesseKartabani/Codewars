@@ -19,6 +19,7 @@ This is a collection of all my Codewar solutions, accompanied by their task desc
 #### Python
 * [You Can't Code Under Pressure](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/You%20Cant%20Code%20Under%20Pressure) - 8kyu
 * [Swap Values](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Swap%20Values) - 8kyu
+* [Multiply](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Multiply) - 8kyu
 * [Do you speak "English"?](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Do%20you%20speak%20%22English%22%3F) - 8kyu
 * [Returning Strings](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Returning%20Strings) - 8kyu
 * [Take the First N Elements](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Take%20the%20First%20N%20Elements) - 8kyu
@@ -32,3 +33,8 @@ This is a collection of all my Codewar solutions, accompanied by their task desc
 * [Calculate BMI](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Calculate%20BMI) - 8kyu
 * [Basic Mathematical Operations](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Basic%20Mathematical%20Operations) - 8kyu
 * [Beginner - Lost Without a Map](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Beginner%20-%20Lost%20Without%20a%20Map) - 8kyu
+* [Opposite number](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Opposite%20number) - 8kyu
+* [Return Negative](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Return%20Negative) - 8kyu
+* [Convert boolean values to strings 'Yes' or 'No'](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'.) - 8kyu
+* [Disemvowel Trolls](https://github.com/jesse1224/Codewars/tree/main/kata/kyu7/Disemvowel%20Trolls) - 7kyu
+* [Stop gninnipS My sdroW!](https://github.com/jesse1224/Codewars/tree/main/kata/kyu6/Stop%20gninnipS%20My%20sdroW!) - 6kyu
