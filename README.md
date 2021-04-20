@@ -6,9 +6,9 @@ This is a collection of all my Codewar solutions, accompanied by their task desc
 
 | Rank | Solved |
 |------|--------|
-| [8kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8) | 21     |
-| [7kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu7) | 0      |
-| [6kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu6) | 0      |
+| [8kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8) | 19     |
+| [7kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu7) | 1      |
+| [6kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu6) | 1      |
 | [5kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu5) | 0      |
 | [4kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu4) | 0      |
 | [3kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu3) | 0      |
