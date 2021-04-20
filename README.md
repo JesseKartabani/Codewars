@@ -16,4 +16,4 @@ This is a collection of all my Codewar solutions, accompanied by their task desc
 | [1kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu1) | 0      |
 
 ## All Challenges
-* [You Can't Code Under Pressure](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/You%20Cant%20Code%20Under%20Pressure)
+* [You Can't Code Under Pressure](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/You%20Cant%20Code%20Under%20Pressure) - 8kyu
