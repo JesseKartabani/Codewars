@@ -6,7 +6,7 @@ This is a collection of all my Codewar solutions, accompanied by their task desc
 
 | Rank | Solved |
 |------|--------|
-| 8kyu | 21     |
+| [8kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8) | 21     |
 | 7kyu | 0      |
 | 6kyu | 0      |
 | 5kyu | 0      |
