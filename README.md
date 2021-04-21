@@ -6,7 +6,7 @@ This is a collection of all my Codewar solutions, accompanied by their task desc
 
 | Rank | Solved |
 |------|--------|
-| [8kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8) | 19     |
+| [8kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8) | 24     |
 | [7kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu7) | 1      |
 | [6kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu6) | 1      |
 | [5kyu](https://github.com/jesse1224/Codewars/tree/main/kata/kyu5) | 0      |
@@ -18,6 +18,11 @@ This is a collection of all my Codewar solutions, accompanied by their task desc
 ## All Challenges
 #### Python
 * [You Can't Code Under Pressure](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/You%20Cant%20Code%20Under%20Pressure) - 8kyu
+* [String repeat](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/String%20repeat) - 8 kyu
+* [Remove exclamation marks](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Remove%20exclamation%20marks) - 8kyu
+* [Find the smallest integer in the array](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Find%20the%20smallest%20integer%20in%20the%20array) - 8kyu
+* [FIXME: Replace all dots](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/FIXME:%20Replace%20all%20dots) - 8kyu
+* [Quarter of the year](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Quarter%20of%20the%20year) - 8kyu
 * [Swap Values](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Swap%20Values) - 8kyu
 * [Multiply](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Multiply) - 8kyu
 * [Do you speak "English"?](https://github.com/jesse1224/Codewars/tree/main/kata/kyu8/Do%20you%20speak%20%22English%22%3F) - 8kyu
